@@ -1,2 +1,7 @@
 # SmartList
-Digitales Schwarzes Brett für die netten Lehrer an meiner ach so tollen Schule.
+Updates & Fortschritt:
+
+19.1.2024:
+-Favion hinzugefügt
+-Am Footer gearbeitet
+
